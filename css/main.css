@@ -1,0 +1,31 @@
+body{
+  background-color: gray;
+  padding: 0px;
+  margin: 0px;
+  font-family: futura, sans-serif;
+
+}
+.colorSwatch h1{
+  margin: 0px;
+}
+.colorSwatch{
+  float: left;
+  width: 20%;
+  text-align: center;
+  height: 100vh;
+  font-size: 50px;
+}
+#colorsBtn{
+  position: absolute;
+  top:20px;
+  left: 20px;
+}
+.cat{
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 100px;
+  font-size: 24px;
+
+
+}
